@@ -27,4 +27,4 @@ sudo python3 setup.py install
 cd ..
 
 # Install jupyter
-pip3 install notebook
+pip3 install notebook matplotlib
