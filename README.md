@@ -1,8 +1,8 @@
 # Azure-Kinect-Jetson-Nano-setup
 
-Download the (image)[https://developer.nvidia.com/jetson-nano-sd-card-image] for the Jetson SD-card.
+Download the [image](https://developer.nvidia.com/jetson-nano-sd-card-image) for the Jetson SD-card.
 
-Flash the SD-card. I recommend using (Balena Etcher)[https://www.balena.io/etcher/].
+Flash the SD-card. I recommend using [Balena Etcher](https://www.balena.io/etcher/).
 
 Afterwards, run this command in the terminal on the Jetson to setup everything:
 
