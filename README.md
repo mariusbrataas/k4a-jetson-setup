@@ -9,3 +9,7 @@ Afterwards, run this command in the terminal on the Jetson to setup everything:
 ```
 git clone https://github.com/mariusbrataas/k4a-jetson-setup.git && cd k4a-jetson-setup && sudo chmod 755 ./SETUP_ALL.sh && sudo ./SETUP_ALL.sh
 ```
+
+```
+git clone https://github.com/mariusbrataas/k4a-jetson-setup.git && cd k4a-jetson-setup && sudo chmod 755 ./KINECT.sh && sudo ./KINECT.sh
+```
