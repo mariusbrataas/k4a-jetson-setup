@@ -11,5 +11,5 @@ git clone https://github.com/mariusbrataas/k4a-jetson-setup.git && cd k4a-jetson
 ```
 
 ```
-git clone https://github.com/mariusbrataas/k4a-jetson-setup.git && cd k4a-jetson-setup && sudo chmod 755 ./KINECT.sh && sudo ./KINECT.sh
+git clone https://github.com/mariusbrataas/k4a-jetson-setup.git && cd k4a-jetson-setup && sudo chmod 755 ./KINECT.sh && sudo ./KINECT.sh && sudo chmod ./PYTHON.sh && sudo ./PYHON.sh
 ```
