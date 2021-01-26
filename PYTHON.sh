@@ -3,7 +3,7 @@ sudo apt-get -y install nvidia-jetpack
 
 # Required system packages
 sudo apt-get update
-sudo apt-get install libhdf5-serial-dev hdf5-tools libhdf5-dev zlib1g-dev zip libjpeg8-dev liblapack-dev libblas-dev gfortran
+sudo apt-get install -y libhdf5-serial-dev hdf5-tools libhdf5-dev zlib1g-dev zip libjpeg8-dev liblapack-dev libblas-dev gfortran
 
 # Install and upgrade pip3
 sudo apt-get install -y python3-pip
