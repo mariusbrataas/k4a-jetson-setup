@@ -1,3 +1,5 @@
+#!/bin/sh
+
 # Install all JetPack components
 sudo apt-get -y install nvidia-jetpack
 
