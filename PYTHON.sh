@@ -19,3 +19,6 @@ sudo apt-get install -y libopenblas-base libopenmpi-dev
 pip3 install Cython
 wget https://nvidia.box.com/shared/static/9eptse6jyly1ggt9axbja2yrmj6pbarc.whl -O torch-1.6.0-cp36-cp36m-linux_aarch64.whl
 pip3 install numpy torch-1.6.0-cp36-cp36m-linux_aarch64.whl
+
+# Other tools
+pip3 install notebook
